@@ -1,0 +1,6 @@
+{
+  "name": "3D Minecraft Clone",
+  "description": "A smooth 3D Minecraft game clone featuring survival mode, resource gathering, dynamic voxel world generation, zombie mobs, day/night cycles, and advanced crafting optimized for touch screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
